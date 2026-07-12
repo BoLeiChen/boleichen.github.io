@@ -23,7 +23,7 @@ repository               : "BoleiChen/boleichen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Bolei Chen (陈铂垒)"
   #pronouns         : # example: "she/her"  
   bio              : "School of Computer Science and Engineering, Central South University （中南大学计算机学院）"
