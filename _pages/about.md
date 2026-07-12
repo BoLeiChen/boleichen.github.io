@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-从本科到博士阶段，我一直从事机器人、多模态感知与融合、强化学习、路径规划及相关领域的技术学习和研究，现在担任中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)学生负责人，师从\textcolor{magenta}{\href{https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm}{\underline{王建新}}}教授(计算机学院首任院长)，与\textcolor{magenta}{\href{https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm}{\underline{钟萍}}}副教授(计算机系副主任、英国剑桥大学博士后)深度合作。我的研究兴趣主要包括：视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等.
+从本科到博士阶段，我一直从事机器人、多模态感知与融合、强化学习、路径规划及相关领域的技术学习和研究，现在担任中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)学生负责人，师从王建新教授。我的研究兴趣主要包括：视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等.
 
 A data-driven personal website
 ======
