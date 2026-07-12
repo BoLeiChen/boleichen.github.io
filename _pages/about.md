@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Bolei Chen's Homepage."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+从本科到博士阶段，我一直从事机器人、多模态感知与融合、强化学习、路径规划及相关领域的技术学习和研究，现在担任中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)学生负责人，师从\textcolor{magenta}{\href{https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm}{\underline{王建新}}}教授(计算机学院首任院长)，与\textcolor{magenta}{\href{https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm}{\underline{钟萍}}}副教授(计算机系副主任、英国剑桥大学博士后)深度合作。我的研究兴趣主要包括：视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等.
 
 A data-driven personal website
 ======
