@@ -20,7 +20,7 @@ I received my Ph.D. degree through a joint Master-Ph.D. program in Computer Scie
 :email: Contact Information (联系方式)
 ======
 boleichen0326@163.com (Primary)
-<br>boleichen@csu.edu.cn
+<br>boleichen@csu.edu.cn (Secondary)
 
 :star: Research Interests (研究兴趣)
 ======
