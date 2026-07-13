@@ -17,6 +17,11 @@ I received my Ph.D. degree through a joint Master-Ph.D. program in Computer Scie
 <br>从本科到博士阶段，我一直从事具身智能、机器人、多模态感知与融合、路径规划与决策领域的技术学习和科学研究，累计发表高水平学术论文30余篇（其中第一作者论文10余篇），主持/参与科研项目10余项，担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人.
 <br>我作为中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)核心成员，重点开展视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等方面科学研究和项目攻关。
 
+:email: Contact Information (联系方式)
+======
+boleichen0326@163.com (Primary)
+<br>boleichen@csu.edu.cn
+
 :star: Research Interests (研究兴趣)
 ======
 Embodied AI (具身智能)<br>Visual Semantic Navigation (视觉语义导航)<br>Mobile Manipulation (移动操作)<br>Multimodal Perception and Fusion (多模态感知与融合)
