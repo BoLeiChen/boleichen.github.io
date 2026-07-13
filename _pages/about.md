@@ -23,7 +23,7 @@ Embodied AI (具身智能)<br>Visual Semantic Navigation (视觉语义导航)<br
 
 :page_facing_up: Paper Publications（论文发表）
 ======
-***表示共同第一作者，#表示通讯作者**
+**^表示共同第一作者，#表示通讯作者**
 <br>**Conference Papers:**
 
 [1] Title: Awaken Memories with Words: Recursive Visual Imagination and Adaptive Linguistic Grounding for Vision Language Navigation,
@@ -35,7 +35,7 @@ Embodied AI (具身智能)<br>Visual Semantic Navigation (视觉语义导航)<br
 <br>Proc: IEEE International Conference on Robotics and Automation (ICRA), 2026, (机器人领域顶级会议, CCF-B类, CAAI-A类).
 
 [3] Title: HSPNav: Hierarchical Scene Prior Learning for Visual Semantic Navigation Towards Real Settings,
-<br>Authors: Jiaxu Kang*, **Bolei Chen***, Ping Zhong, Haonan Yang, Yu Sheng, Jianxin Wang,
+<br>Authors: Jiaxu Kang^, **Bolei Chen^**, Ping Zhong, Haonan Yang, Yu Sheng, Jianxin Wang,
 <br>Proc: IEEE International Conference on Robotics and Automation (ICRA), 2024: 9434-9440, (机器人领域顶级会议, CCF-B类, CAAI-A类, **Oral**).
 
 [4] Title: Perspective from a Broader Context: Can Room Style Knowledge Help Visual Floorplan Localization?,
