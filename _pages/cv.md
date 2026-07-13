@@ -27,7 +27,7 @@ Major Publications
 <br>Proc: IEEE International Conference on Robotics and Automation (ICRA), 2026, (机器人领域顶级会议, CCF-B类, CAAI-A类).
 
 [3] Title: HSPNav: Hierarchical Scene Prior Learning for Visual Semantic Navigation Towards Real Settings,
-<br>Authors: Jiaxu Kang*, **Bolei Chen^**, Ping Zhong, Haonan Yang, Yu Sheng, Jianxin Wang,
+<br>Authors: Jiaxu Kang^, **Bolei Chen^**, Ping Zhong, Haonan Yang, Yu Sheng, Jianxin Wang,
 <br>Proc: IEEE International Conference on Robotics and Automation (ICRA), 2024: 9434-9440, (机器人领域顶级会议, CCF-B类, CAAI-A类, **Oral**).
 
 [4] Title: Perspective from a Broader Context: Can Room Style Knowledge Help Visual Floorplan Localization?,
