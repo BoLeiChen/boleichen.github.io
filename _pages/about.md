@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me （关于我）
+About Me （关于我） :relaxed:
 ------
 
 I received my Ph.D. degree through a joint Master-Ph.D. program in Computer Science and Technology from the School of Computer Science and Engineering at Central South University in June 2026, under the supervision of [Prof. Jianxin Wang](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm) and [Assoc. Prof. Ping Zhong](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm).
@@ -15,11 +15,11 @@ I received my Ph.D. degree through a joint Master-Ph.D. program in Computer Scie
 
 我于2026年6月硕博连读毕业于中南大学-计算机学院-计算机科学与技术专业，师从[王建新教授](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm)和[钟萍副教授](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm)。从本科到博士阶段，我一直从事具身智能、机器人、多模态感知与融合、路径规划与决策领域的技术学习和科学研究，累计发表高水平学术论文30余篇（其中第一作者论文10余篇），主持/参与科研项目10余项，担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人，作为中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)核心成员，重点开展视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等方面科学研究和项目攻关。
 
-Research Interests (研究兴趣)
+Research Interests (研究兴趣) :star:
 ======
 Embodied AI (具身智能)<br>Visual Semantic Navigation (视觉语义导航)<br>Mobile Manipulation (移动操作)<br>Multimodal Perception and Fusion (多模态感知与融合)
 
-Paper Publications（论文发表）
+Paper Publications（论文发表） :page_facing_up:
 ======
 ***表示共同第一作者，#表示通讯作者**
 <br>**Conference Papers:**
@@ -42,7 +42,7 @@ Paper Publications（论文发表）
 
 [5] Title: Towards Ultrasound-based Reliable Disease Diagnosis Using Causal Inference,
 <br>Authors: **Bolei Chen**, Jiaxu Kang, Haonan Yang, Ping Zhong, Yixiong Liang, Rui Fan, Jiaxin Wang,
-<br>Proc: Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(4): 2778-2786, (CCF-A类会议
+<br>Proc: Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(4): 2778-2786, (CCF-A类会议)
 
 [6] Title: Perspective from a Higher Dimension: Can 3D Geometric Priors Help Visual Floorplan Localization?,
 <br>Authors: **Bolei Chen**, Jiaxu Kang, Haonan Yang, Ping Zhong, Jianxin Wang,
@@ -90,14 +90,14 @@ Paper Publications（论文发表）
 <br>Authors: **Bolei Chen**, Ping Zhong, Yongzheng Cui, Siyi Lu, Yixiong Liang, Yu Sheng,
 <br>Journal: Complex & Intelligent Systems, 2023, 9(6): 7365-7379, (JCR Q2, IF：4.6).
 
-Patent Publications （专利发表）
+Patent Publications （专利发表） :page_with_curl:
 ------
 [1] 一种桡动脉穿刺机器人，已授权，公告号：CN118750180B;
 <br>[2] 基于深度强化学习的机器人自主探索方法，已授权，公告号：CN115963832A;
 <br>[3] 基于深度学习的自动驾驶场景分类算法，已授权，公告号：CN116310970B;
 <br>[4] 一种针对无人机的具有时空意识的分层次自主探索方法，已授权，公告号：CN116088581B.
 
-Major Awards & Honors (主要奖项与荣誉)
+Major Awards & Honors (主要奖项与荣誉) :trophy:
 ------
 [1] 2026年6月湖南省级优秀博士毕业生（年级仅1人）、中南大学校级优秀博士毕业生（年级4人）;
 <br>[2] 2025年11月AAAI (Association for the Advancement of Artificial Intelligence) 2026奖学金;
@@ -110,8 +110,8 @@ Major Awards & Honors (主要奖项与荣誉)
 <br>[9] 2019年8月中国大学生计算机设计大赛物联网类国家级三等奖 （中国杭州，杭州电子科技大学）；
 <br>[10] 2017年9月获本科生国家奖学金.
 
-Project Experience
-------
+Project Experience (项目经历) :sparkler:
+------ 
 
 [1] 面向脑启发具身智能机器人前沿理论研究，核心技术人员，在研;
 <br>[2] 矿山碎石机器人自主决策与规划系统研究，核心技术人员，在研;
@@ -124,7 +124,7 @@ Project Experience
 <br>[9] 面向厂区货车的融合式导航系统研究，项目负责人，已结项;
 <br>[10] 六足仿生探测机器人的设计与应用，项目负责人，已结项.
 
-Social Contribution
+Social Contribution (社会贡献) :gift_heart:
 ------
 IEEE RAS Member, AAAI Member, ACM Member;
 <br>担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人.
