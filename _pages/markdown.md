@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Human-Robot-Object Ternary Fusion Embodied Robotics Laboratory (HERO-Lab)"
+title: "HERO-Lab"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-{% include toc %}
+## Human-Robot-Object Ternary Fusion Embodied Robotics Laboratory (人机物三元融合具身机器人实验室)
 
 ## Members
 
