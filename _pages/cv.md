@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "News & Major Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-News
+News :loudspeaker:
 ======
-[2026.06] I have earned my Ph.D. from the School of Computer Science and Engineering at Central South University. I would like to thank my alma mater, my advisor, and my family.
-<br>[2026.05] One paper has been accepted by the IJCAI conference. Congratulations to Liu Liangbo and Wu Tao.
-<br>[2026.01] Two papers have been accepted by the IEEE ICRA conference. Thanks to the co-authors.
+**[2026.06]** I have earned my Ph.D. from the School of Computer Science and Engineering at Central South University. I would like to thank my alma mater, my advisor, and my family :heart:.
+<br>**[2026.05]** One paper has been accepted by the IJCAI conference. Congratulations to Liu Liangbo and Wu Tao :tada: :tada: :tada: .
+<br>**[2026.01]** Two papers have been accepted by the IEEE ICRA conference. Thanks to the co-authors :blush:.
 
 Major Publications
 ======
@@ -36,7 +36,7 @@ Major Publications
 
 [5] Title: Towards Ultrasound-based Reliable Disease Diagnosis Using Causal Inference,
 <br>Authors: **Bolei Chen**, Jiaxu Kang, Haonan Yang, Ping Zhong, Yixiong Liang, Rui Fan, Jiaxin Wang,
-<br>Proc: Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(4): 2778-2786, (CCF-A类会议
+<br>Proc: Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(4): 2778-2786, (CCF-A类会议)
 
 [6] Title: Perspective from a Higher Dimension: Can 3D Geometric Priors Help Visual Floorplan Localization?,
 <br>Authors: **Bolei Chen**, Jiaxu Kang, Haonan Yang, Ping Zhong, Jianxin Wang,
@@ -83,16 +83,4 @@ Major Publications
 [8] Title: Emexplorer: an episodic memory enhanced autonomous exploration strategy with voronoi domain conversion and invalid action masking,
 <br>Authors: **Bolei Chen**, Ping Zhong, Yongzheng Cui, Siyi Lu, Yixiong Liang, Yu Sheng,
 <br>Journal: Complex & Intelligent Systems, 2023, 9(6): 7365-7379, (JCR Q2, IF：4.6).
-
-  
-%Talks
-%======
-
-  
-%Teaching
-%======
-
-  
-%Service and leadership
-%======
 
