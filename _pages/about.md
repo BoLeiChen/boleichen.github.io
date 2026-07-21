@@ -9,13 +9,11 @@ redirect_from:
 :relaxed: About Me （关于我）
 ------
 
-I received my Ph.D. degree through a joint Master-Ph.D. program in Computer Science and Technology from the School of Computer Science and Engineering at Central South University in June 2026, under the supervision of [Prof. Jianxin Wang](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm) and [Assoc. Prof. Ping Zhong](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm).
-<br>Since my undergraduate studies, my research interests have consistently focused on Embodied AI, robotics, multimodal perception and fusion, as well as path planning and decision-making. To date, I have published over 30 high-level academic papers (including more than 10 as the first author) and have led or participated in over 10 research projects. Additionally, I serve as a reviewer for prestigious journals such as IEEE TRO, IEEE TCSVT, IEEE TIM, IEEE RAL, and Autonomous Robots, as well as top-tier international conferences including NeurIPS, CVPR, AAAI, ACM MM, ICRA, and IROS.
-<br>As a core member of the Human-Robot-Object Ternary Fusion Embodied Robotics Laboratory (HERO-Lab) at the School of Computer Science and Engineering, Central South University, my current research and project development primarily focus on visual semantic navigation, embodied mobile manipulation, Vision-Language-Action (VLA) models, multimodal large language models, and ultrasound scanning robots.
+I am currently a Specially Appointed Associate Professor at the Innovation School of Artificial Intelligence, Hefei University of Technology (HFUT). Prior to joining HFUT, I received my Ph.D. in Computer Science and Technology through an integrated Master's–Ph.D. program from the School of Computer Science and Engineering, Central South University, where I had the privilege of being advised by Professor [Jianxin Wang](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm) and Associate Professor [Ping Zhong](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm).
+<br>My research interests lie in Embodied AI, Robotics, Multimodal Perception and Fusion, and Path Planning and Decision-Making. To date, I have published over 30 peer-reviewed papers in leading journals and international conferences, including more than 10 first-author publications. I have also led or participated in more than 10 research projects. In addition, I serve as a reviewer for several prestigious journals, including IEEE Transactions on Robotics (TRO), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RA-L), and Autonomous Robots, as well as top-tier international conferences such as NeurIPS, CVPR, AAAI, ACM Multimedia (ACM MM), ICRA, and IROS.
 
-我于2026年6月硕博连读毕业于中南大学-计算机学院-计算机科学与技术专业，师从[王建新教授](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm)和[钟萍副教授](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm)。
-<br>从本科到博士阶段，我一直从事具身智能、机器人、多模态感知与融合、路径规划与决策领域的技术学习和科学研究，累计发表高水平学术论文30余篇（其中第一作者论文10余篇），主持/参与科研项目10余项，担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人.
-<br>我作为中南大学计算机学院-人机物三元融合具身机器人实验室(HERO-Lab)核心成员，重点开展视觉语义导航、具身移动操作、视觉-语言-动作(VLA)模型、多模态大模型、超声扫查机器人等方面科学研究和项目攻关。
+我现在是合肥工大学人工智能创新学院的特任副教授。在此之前，我硕博连读毕业于中南大学-计算机学院-计算机科学与技术专业，师从[王建新](https://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm)教授和[钟萍](https://faculty.csu.edu.cn/zhongping/zh_CN/index.htm)副教授。 
+<br>我一直从事具身智能、机器人、多模态感知与融合、路径规划与决策领域的技术学习和科学研究，累计发表高水平学术论文30余篇（其中第一作者论文10余篇），主持/参与科研项目10余项，担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人.
 
 :email: Contact Information (联系方式)
 ======
@@ -120,12 +118,12 @@ Patent Publications （专利发表） :page_with_curl:
 :sparkler: Project Experience (项目经历)
 ------ 
 
-[1] 面向脑启发具身智能机器人前沿理论研究，核心技术人员，在研;
-<br>[2] 矿山碎石机器人自主决策与规划系统研究，核心技术人员，在研;
-<br>[3] 面向人机物三元融合的运动管理和调度优化研究，核心技术人员，在研;
-<br>[4] 基于AI大数据和智能解析在特发疑难皮肤病防诊治中的关键技术研发，核心技术人员，在研;
-<br>[5] 江西联通基于视频+AI在行业领域的应用研究，核心技术人员，在研;
-<br>[6] 面向自主无人系统的适应性智能导航与自主探索算法，核心技术人员，已结项;
+[1] 面向脑启发具身智能机器人前沿理论研究，核心技术人员;
+<br>[2] 矿山碎石机器人自主决策与规划系统研究，核心技术人员;
+<br>[3] 面向人机物三元融合的运动管理和调度优化研究，核心技术人员;
+<br>[4] 基于AI大数据和智能解析在特发疑难皮肤病防诊治中的关键技术研发，核心技术人员;
+<br>[5] 江西联通基于视频+AI在行业领域的应用研究，核心技术人员;
+<br>[6] 面向自主无人系统的适应性智能导航与自主探索算法，核心技术人员;
 <br>[7] 面向人机物三元融合的自主探索和视觉导航研究，项目负责人，已结项;
 <br>[8] 面向机器人的适应性智能导航与场景感知，项目负责人，已结项;
 <br>[9] 面向厂区货车的融合式导航系统研究，项目负责人，已结项;
@@ -135,4 +133,4 @@ Patent Publications （专利发表） :page_with_curl:
 ------
 IEEE RAS Member, AAAI Member, ACM Member;
 <br>担任IEEE TRO、IEEE TCSVT、IEEE TIM、IEEE RAL、Autonomous Robots等高水平期刊和NeurIPS、CVPR、AAAI、ACM MM、ICRA、IROS等高水平国际会议审稿人.
-<br>担任博士班长、研究生党支部副书记、2026届博士校友联络员等职务.
+<br>曾担任博士班长、研究生党支部副书记、2026届博士校友联络员等职务.
