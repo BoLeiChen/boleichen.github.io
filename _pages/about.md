@@ -27,6 +27,12 @@ Embodied AI
 <br>Mobile Manipulation
 <br>Multimodal Perception and Fusion
 
+News :loudspeaker:
+======
+**[2026.06]** I have earned my Ph.D. from the School of Computer Science and Engineering at Central South University. I would like to thank my alma mater, my advisor, and my family :heart:.
+<br>**[2026.05]** One paper has been accepted by the IJCAI conference. Congratulations to Liu Liangbo and Wu Tao :tada: :tada: :tada: .
+<br>**[2026.01]** Two papers have been accepted by the IEEE ICRA conference. Thanks to the co-authors :blush:.
+
 :page_facing_up: Paper Publications
 ======
 **^ indicates joint first authors, # indicates the corresponding author**
