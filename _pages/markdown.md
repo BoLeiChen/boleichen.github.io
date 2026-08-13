@@ -7,12 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-## Human-Robot-Object Ternary Fusion Embodied Robotics Laboratory (人机物三元融合具身机器人实验室)
+## Human-Embodied Robot-Object (HERO) Ternary Fusion Laboratory
 
 ## Members
-
 I'm putting together a team, and it's coming soon.
 
 ## Collaborators
-
-Coming soon ....
+Shengsheng Yan
+<br>Yitao Zuo
+<br>Shiyong Meng
+<br>Manling Teng
+<br>Tao Wu
