@@ -7,14 +7,19 @@ redirect_from:
   - /markdown.html
 ---
 
-## Human-Embodied Robot-Object (HERO) Ternary Fusion Laboratory
+## Human Embodied-Robot Object (HERO) Ternary Fusion Laboratory
+
+## Leaders
+Ping Zhong, Bolei Chen
 
 ## Members
-I'm putting together a team, and it's coming soon.
-
-## Collaborators
-Shengsheng Yan
-<br>Yitao Zuo
-<br>Shiyong Meng
-<br>Manling Teng
-<br>Tao Wu
+Hebin Hu (Ph.D., CSU)
+<br>Shengsheng Yan (Ph.D., CSU)
+<br>Yitao Zuo (Ph.D., CSU)
+<br>Liangbai Liu (M.S., CSU)
+<br>Yifei Wang (M.S., CSU)
+<br>Tao Zou (M.S., CSU)
+<br>Shiyong Meng (M.S., CSU)
+<br>Manling Teng (M.S., CSU)
+<br>Tao Wu (M.S., CSU)
+<br> Zhen Chen (M.S., CSU)
