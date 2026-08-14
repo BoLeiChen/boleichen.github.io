@@ -21,7 +21,7 @@ I am currently a Specially Appointed Associate Professor at the Innovation Schoo
 
 :email: Contact Information
 ======
-boleichen0326@163.com; boleichen@hfut.edu.cn
+boleichen0326@163.com
 
 :star: Research Interests
 ======
